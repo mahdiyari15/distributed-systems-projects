@@ -1,5 +1,12 @@
 # Gossip-Scaled Semantic Forwarding in NDN
 
+> **Accepted at the 12th International Symposium on Telecommunication (IEEE IST 2026)** as a poster:
+> S. Taghizadeh, M. Yaribaran, M. R. Shakournia, P. Jamshidi, S. Rahmani,
+> *Gossip-Scaled Semantic Forwarding in Named Data Networking*.
+> [Paper PDF](https://mahdiyari15.github.io/papers/IST2026_GS-NDN.pdf) ·
+> [Poster](https://mahdiyari15.github.io/papers/IST2026_GS-NDN_poster.pdf) ·
+> [Project page](https://mahdiyari15.github.io/projects/gs-ndn.html)
+
 When a client asks for `/hospital/temp-sensor/room-101` and the network only
 knows `/smart-hospital/building-a/floor-1/temperature/room-101`, exact-match
 forwarding drops the request. Embedding the name and matching it by cosine
